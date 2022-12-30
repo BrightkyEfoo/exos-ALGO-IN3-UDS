@@ -1,0 +1,1 @@
+print("entrer une valeur de x")
